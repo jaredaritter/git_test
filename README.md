@@ -1,0 +1,1 @@
+Alternate way of setting up Git and Github
